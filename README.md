@@ -1,24 +1,3 @@
-# React + Vite useReducer
+# React + Vite Optimization
 
-1. useReducer
-컴포넌트 내부에 새로운 State를 생성하는 React Hook
-
-모든 useState는 useReducer로 대체 가능
-
-useReducer를 사용하면?
-컴포넌트 외부에 상태 관리 코드를 분리할 수 있음
-
-투두리스트처럼 배열 안에 객체가 많다면 --> useReducer
-카운터처럼 단일 기능이라면 --> useState
-
-최적화
-웹 서비스의 성능을 개선하는 모든 행위를 일컫음
-단순한 것부터 어려운 방법까지 다양함
-
-서버 응답속도 개선
-이미지, 폰트, 코드파일 로딩 개선
-불필요한 네트워크 요청 줄임
-
-컴포넌트 내부의 불필요한 연산 방지
-컴포넌트 내부의 불필요한 함수 재생성 방지
-컴포넌트의 불필요한 리렌더링 방지
+1. Optimization
